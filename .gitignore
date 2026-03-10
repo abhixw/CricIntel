@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Dataset files
+data/processed/*.csv
+data/raw/*.csv
+
+# Node
+node_modules/
+
+# MacOS
+.DS_Store
