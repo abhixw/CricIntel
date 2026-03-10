@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+huggingface_hub
+langgraph
+chromadb
+pandas
+pydantic
+python-dotenv
+tiktoken
+pytest
